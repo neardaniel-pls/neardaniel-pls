@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel! 👋
 
-I'm an engineer with a passion for technology, personal finance, and gaming. I'm currently deepening my knowledge in software development and exploring new technologies.
+I'm an engineer with a passion for technology, personal finance, and gaming. I'm currently deepening my knowledge in life and exploring new technologies.
 
 <div align="center">
   <a href="https://github.com/neardaniel-pls">
