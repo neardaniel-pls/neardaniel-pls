@@ -22,7 +22,7 @@ Here are some of the technologies I've been working with:
   <img align="center" alt="Daniel-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="Daniel-Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img align="center" alt="Daniel-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="Daniel-AI" src="https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img align="center" alt="Daniel-AI" src="https://img.shields.io/badge/AI%20Assistant-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img align="center" alt="Daniel-Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
