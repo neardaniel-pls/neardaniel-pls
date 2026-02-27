@@ -3,7 +3,7 @@
 I'm an engineer with a passion for technology, personal finance, and gaming. I'm currently deepening my knowledge in life and exploring new technologies.
 
 <div align="center">
-  <a href="https://github.com/neardaniel-pls">
+  <a href="https://github.com/asd">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=neardaniel-pls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neardaniel-pls&layout=compact&langs_count=7&theme=dracula"/>
   </a>
